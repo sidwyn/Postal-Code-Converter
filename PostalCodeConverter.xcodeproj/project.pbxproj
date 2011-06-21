@@ -1,0 +1,458 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8FDF15DD13B111AE00C4AE97 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FDF15DC13B111AE00C4AE97 /* UIKit.framework */; };
+		8FDF15DF13B111AE00C4AE97 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FDF15DE13B111AE00C4AE97 /* Foundation.framework */; };
+		8FDF15E113B111AE00C4AE97 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FDF15E013B111AE00C4AE97 /* CoreGraphics.framework */; };
+		8FDF15E713B111AE00C4AE97 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8FDF15E513B111AE00C4AE97 /* InfoPlist.strings */; };
+		8FDF15EA13B111AE00C4AE97 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FDF15E913B111AE00C4AE97 /* main.m */; };
+		8FDF15ED13B111AE00C4AE97 /* PostalCodeConverterAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FDF15EC13B111AE00C4AE97 /* PostalCodeConverterAppDelegate.m */; };
+		8FDF15F013B111AE00C4AE97 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8FDF15EE13B111AE00C4AE97 /* MainWindow.xib */; };
+		8FDF15F313B111AE00C4AE97 /* PostalCodeConverterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FDF15F213B111AE00C4AE97 /* PostalCodeConverterViewController.m */; };
+		8FDF15F613B111AE00C4AE97 /* PostalCodeConverterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8FDF15F413B111AE00C4AE97 /* PostalCodeConverterViewController.xib */; };
+		8FDF15FD13B111AF00C4AE97 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FDF15DC13B111AE00C4AE97 /* UIKit.framework */; };
+		8FDF15FE13B111AF00C4AE97 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FDF15DE13B111AE00C4AE97 /* Foundation.framework */; };
+		8FDF15FF13B111AF00C4AE97 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FDF15E013B111AE00C4AE97 /* CoreGraphics.framework */; };
+		8FDF160713B111AF00C4AE97 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8FDF160513B111AF00C4AE97 /* InfoPlist.strings */; };
+		8FDF160A13B111AF00C4AE97 /* PostalCodeConverterTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 8FDF160913B111AF00C4AE97 /* PostalCodeConverterTests.h */; };
+		8FDF160C13B111AF00C4AE97 /* PostalCodeConverterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FDF160B13B111AF00C4AE97 /* PostalCodeConverterTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8FDF160013B111AF00C4AE97 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8FDF15CF13B111AE00C4AE97 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8FDF15D713B111AE00C4AE97;
+			remoteInfo = PostalCodeConverter;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8FDF15D813B111AE00C4AE97 /* PostalCodeConverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PostalCodeConverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FDF15DC13B111AE00C4AE97 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8FDF15DE13B111AE00C4AE97 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8FDF15E013B111AE00C4AE97 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		8FDF15E413B111AE00C4AE97 /* PostalCodeConverter-Info.plist */ = {isa = PBXFileReference; path = "PostalCodeConverter-Info.plist"; sourceTree = "<group>"; };
+		8FDF15E613B111AE00C4AE97 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8FDF15E813B111AE00C4AE97 /* PostalCodeConverter-Prefix.pch */ = {isa = PBXFileReference; path = "PostalCodeConverter-Prefix.pch"; sourceTree = "<group>"; };
+		8FDF15E913B111AE00C4AE97 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8FDF15EB13B111AE00C4AE97 /* PostalCodeConverterAppDelegate.h */ = {isa = PBXFileReference; path = PostalCodeConverterAppDelegate.h; sourceTree = "<group>"; };
+		8FDF15EC13B111AE00C4AE97 /* PostalCodeConverterAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PostalCodeConverterAppDelegate.m; sourceTree = "<group>"; };
+		8FDF15EF13B111AE00C4AE97 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		8FDF15F113B111AE00C4AE97 /* PostalCodeConverterViewController.h */ = {isa = PBXFileReference; path = PostalCodeConverterViewController.h; sourceTree = "<group>"; };
+		8FDF15F213B111AE00C4AE97 /* PostalCodeConverterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PostalCodeConverterViewController.m; sourceTree = "<group>"; };
+		8FDF15F513B111AE00C4AE97 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PostalCodeConverterViewController.xib; sourceTree = "<group>"; };
+		8FDF15FC13B111AE00C4AE97 /* PostalCodeConverterTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostalCodeConverterTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FDF160413B111AF00C4AE97 /* PostalCodeConverterTests-Info.plist */ = {isa = PBXFileReference; path = "PostalCodeConverterTests-Info.plist"; sourceTree = "<group>"; };
+		8FDF160613B111AF00C4AE97 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8FDF160813B111AF00C4AE97 /* PostalCodeConverterTests-Prefix.pch */ = {isa = PBXFileReference; path = "PostalCodeConverterTests-Prefix.pch"; sourceTree = "<group>"; };
+		8FDF160913B111AF00C4AE97 /* PostalCodeConverterTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PostalCodeConverterTests.h; sourceTree = "<group>"; };
+		8FDF160B13B111AF00C4AE97 /* PostalCodeConverterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PostalCodeConverterTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8FDF15D513B111AE00C4AE97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FDF15DD13B111AE00C4AE97 /* UIKit.framework in Frameworks */,
+				8FDF15DF13B111AE00C4AE97 /* Foundation.framework in Frameworks */,
+				8FDF15E113B111AE00C4AE97 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8FDF15F813B111AE00C4AE97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FDF15FD13B111AF00C4AE97 /* UIKit.framework in Frameworks */,
+				8FDF15FE13B111AF00C4AE97 /* Foundation.framework in Frameworks */,
+				8FDF15FF13B111AF00C4AE97 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8FDF15CD13B111AE00C4AE97 = {
+			isa = PBXGroup;
+			children = (
+				8FDF15E213B111AE00C4AE97 /* PostalCodeConverter */,
+				8FDF160213B111AF00C4AE97 /* PostalCodeConverterTests */,
+				8FDF15DB13B111AE00C4AE97 /* Frameworks */,
+				8FDF15D913B111AE00C4AE97 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8FDF15D913B111AE00C4AE97 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8FDF15D813B111AE00C4AE97 /* PostalCodeConverter.app */,
+				8FDF15FC13B111AE00C4AE97 /* PostalCodeConverterTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8FDF15DB13B111AE00C4AE97 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8FDF15DC13B111AE00C4AE97 /* UIKit.framework */,
+				8FDF15DE13B111AE00C4AE97 /* Foundation.framework */,
+				8FDF15E013B111AE00C4AE97 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8FDF15E213B111AE00C4AE97 /* PostalCodeConverter */ = {
+			isa = PBXGroup;
+			children = (
+				8FDF15EB13B111AE00C4AE97 /* PostalCodeConverterAppDelegate.h */,
+				8FDF15EC13B111AE00C4AE97 /* PostalCodeConverterAppDelegate.m */,
+				8FDF15EE13B111AE00C4AE97 /* MainWindow.xib */,
+				8FDF15F113B111AE00C4AE97 /* PostalCodeConverterViewController.h */,
+				8FDF15F213B111AE00C4AE97 /* PostalCodeConverterViewController.m */,
+				8FDF15F413B111AE00C4AE97 /* PostalCodeConverterViewController.xib */,
+				8FDF15E313B111AE00C4AE97 /* Supporting Files */,
+			);
+			path = PostalCodeConverter;
+			sourceTree = "<group>";
+		};
+		8FDF15E313B111AE00C4AE97 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8FDF15E413B111AE00C4AE97 /* PostalCodeConverter-Info.plist */,
+				8FDF15E513B111AE00C4AE97 /* InfoPlist.strings */,
+				8FDF15E813B111AE00C4AE97 /* PostalCodeConverter-Prefix.pch */,
+				8FDF15E913B111AE00C4AE97 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8FDF160213B111AF00C4AE97 /* PostalCodeConverterTests */ = {
+			isa = PBXGroup;
+			children = (
+				8FDF160913B111AF00C4AE97 /* PostalCodeConverterTests.h */,
+				8FDF160B13B111AF00C4AE97 /* PostalCodeConverterTests.m */,
+				8FDF160313B111AF00C4AE97 /* Supporting Files */,
+			);
+			path = PostalCodeConverterTests;
+			sourceTree = "<group>";
+		};
+		8FDF160313B111AF00C4AE97 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8FDF160413B111AF00C4AE97 /* PostalCodeConverterTests-Info.plist */,
+				8FDF160513B111AF00C4AE97 /* InfoPlist.strings */,
+				8FDF160813B111AF00C4AE97 /* PostalCodeConverterTests-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8FDF15D713B111AE00C4AE97 /* PostalCodeConverter */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8FDF160F13B111AF00C4AE97 /* Build configuration list for PBXNativeTarget "PostalCodeConverter" */;
+			buildPhases = (
+				8FDF15D413B111AE00C4AE97 /* Sources */,
+				8FDF15D513B111AE00C4AE97 /* Frameworks */,
+				8FDF15D613B111AE00C4AE97 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PostalCodeConverter;
+			productName = PostalCodeConverter;
+			productReference = 8FDF15D813B111AE00C4AE97 /* PostalCodeConverter.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8FDF15FB13B111AE00C4AE97 /* PostalCodeConverterTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8FDF161213B111AF00C4AE97 /* Build configuration list for PBXNativeTarget "PostalCodeConverterTests" */;
+			buildPhases = (
+				8FDF15F713B111AE00C4AE97 /* Sources */,
+				8FDF15F813B111AE00C4AE97 /* Frameworks */,
+				8FDF15F913B111AE00C4AE97 /* Resources */,
+				8FDF15FA13B111AE00C4AE97 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8FDF160113B111AF00C4AE97 /* PBXTargetDependency */,
+			);
+			name = PostalCodeConverterTests;
+			productName = PostalCodeConverterTests;
+			productReference = 8FDF15FC13B111AE00C4AE97 /* PostalCodeConverterTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8FDF15CF13B111AE00C4AE97 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 8FDF15D213B111AE00C4AE97 /* Build configuration list for PBXProject "PostalCodeConverter" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8FDF15CD13B111AE00C4AE97;
+			productRefGroup = 8FDF15D913B111AE00C4AE97 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8FDF15D713B111AE00C4AE97 /* PostalCodeConverter */,
+				8FDF15FB13B111AE00C4AE97 /* PostalCodeConverterTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8FDF15D613B111AE00C4AE97 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FDF15E713B111AE00C4AE97 /* InfoPlist.strings in Resources */,
+				8FDF15F013B111AE00C4AE97 /* MainWindow.xib in Resources */,
+				8FDF15F613B111AE00C4AE97 /* PostalCodeConverterViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8FDF15F913B111AE00C4AE97 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FDF160713B111AF00C4AE97 /* InfoPlist.strings in Resources */,
+				8FDF160A13B111AF00C4AE97 /* PostalCodeConverterTests.h in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8FDF15FA13B111AE00C4AE97 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8FDF15D413B111AE00C4AE97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FDF15EA13B111AE00C4AE97 /* main.m in Sources */,
+				8FDF15ED13B111AE00C4AE97 /* PostalCodeConverterAppDelegate.m in Sources */,
+				8FDF15F313B111AE00C4AE97 /* PostalCodeConverterViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8FDF15F713B111AE00C4AE97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FDF160C13B111AF00C4AE97 /* PostalCodeConverterTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8FDF160113B111AF00C4AE97 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8FDF15D713B111AE00C4AE97 /* PostalCodeConverter */;
+			targetProxy = 8FDF160013B111AF00C4AE97 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8FDF15E513B111AE00C4AE97 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8FDF15E613B111AE00C4AE97 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8FDF15EE13B111AE00C4AE97 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8FDF15EF13B111AE00C4AE97 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		8FDF15F413B111AE00C4AE97 /* PostalCodeConverterViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8FDF15F513B111AE00C4AE97 /* en */,
+			);
+			name = PostalCodeConverterViewController.xib;
+			sourceTree = "<group>";
+		};
+		8FDF160513B111AF00C4AE97 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8FDF160613B111AF00C4AE97 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8FDF160D13B111AF00C4AE97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		8FDF160E13B111AF00C4AE97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		8FDF161013B111AF00C4AE97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PostalCodeConverter/PostalCodeConverter-Prefix.pch";
+				INFOPLIST_FILE = "PostalCodeConverter/PostalCodeConverter-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8FDF161113B111AF00C4AE97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PostalCodeConverter/PostalCodeConverter-Prefix.pch";
+				INFOPLIST_FILE = "PostalCodeConverter/PostalCodeConverter-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		8FDF161313B111AF00C4AE97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/PostalCodeConverter.app/PostalCodeConverter";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PostalCodeConverterTests/PostalCodeConverterTests-Prefix.pch";
+				INFOPLIST_FILE = "PostalCodeConverterTests/PostalCodeConverterTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		8FDF161413B111AF00C4AE97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/PostalCodeConverter.app/PostalCodeConverter";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PostalCodeConverterTests/PostalCodeConverterTests-Prefix.pch";
+				INFOPLIST_FILE = "PostalCodeConverterTests/PostalCodeConverterTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8FDF15D213B111AE00C4AE97 /* Build configuration list for PBXProject "PostalCodeConverter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8FDF160D13B111AF00C4AE97 /* Debug */,
+				8FDF160E13B111AF00C4AE97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8FDF160F13B111AF00C4AE97 /* Build configuration list for PBXNativeTarget "PostalCodeConverter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8FDF161013B111AF00C4AE97 /* Debug */,
+				8FDF161113B111AF00C4AE97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		8FDF161213B111AF00C4AE97 /* Build configuration list for PBXNativeTarget "PostalCodeConverterTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8FDF161313B111AF00C4AE97 /* Debug */,
+				8FDF161413B111AF00C4AE97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8FDF15CF13B111AE00C4AE97 /* Project object */;
+}
