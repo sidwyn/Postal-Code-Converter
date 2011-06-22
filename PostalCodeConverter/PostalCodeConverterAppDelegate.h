@@ -13,8 +13,11 @@
 @interface PostalCodeConverterAppDelegate : NSObject <UIApplicationDelegate> {
 
 }
-
+- (NSString *)stringWithUrl:(NSURL *)url;
+- (id) objectWithUrl:(NSURL *)url;
+- (void)runAll;
 @property (nonatomic, retain) IBOutlet UIWindow *window;
+@property (nonatomic, retain) NSMutableDictionary *data;
 
 @property (nonatomic, retain) IBOutlet PostalCodeConverterViewController *viewController;
 

@@ -1,0 +1,1957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MHA</key>
+	<dict>
+		<key>Casino Regulatory Authority</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>460 Alexandra Road #12-01, Singapore 119963</string>
+				<key>Name</key>
+				<string>Casino Regulatory Authority</string>
+				<key>Number</key>
+				<string>65161743</string>
+				<key>OperatingHours</key>
+				<string>Mondays to Thursdays - 0830 to 1800, Fridays - 0830 to 1730</string>
+			</dict>
+		</array>
+		<key>Central Narcotics Bureau</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>Blk B Police Cantonment Complex 393 New Bridge Road, Singapore 088763</string>
+				<key>Name</key>
+				<string>Central Narcotics Bureau</string>
+				<key>Number</key>
+				<string>18003256666</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>Fire Divisions</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>62 Hill Street, Singapore 179367</string>
+				<key>Name</key>
+				<string>National Fire and Civil Emergency Preparedness Council</string>
+				<key>Number</key>
+				<string>63323178</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>62 Hill Street, Singapore 179367</string>
+				<key>Name</key>
+				<string>Civil Defence Heritage Gallery</string>
+				<key>Number</key>
+				<string>63323000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>3 Queensway, Singapore 149073</string>
+				<key>Name</key>
+				<string>1st Civil Defence Division</string>
+				<key>Number</key>
+				<string>64717421</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Commonwealth Ave West Off Clementi Service Road, Singapore 129577</string>
+				<key>Name</key>
+				<string>Clementi Fire Station</string>
+				<key>Number</key>
+				<string>63411100</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>1 Marymout Lane, Singapore 574029</string>
+				<key>Name</key>
+				<string>Bishan Fire Station</string>
+				<key>Number</key>
+				<string>63323000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>3 Queensway, Singapore 149073</string>
+				<key>Name</key>
+				<string>Alexandra Fire Station</string>
+				<key>Number</key>
+				<string>64717481</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>62 Hill Street, Singapore 179367</string>
+				<key>Name</key>
+				<string>Central Fire Station</string>
+				<key>Number</key>
+				<string>63323000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>70 Jurong Island Highway, Singapore 627880</string>
+				<key>Name</key>
+				<string>Jurong Island Fire Station</string>
+				<key>Number</key>
+				<string>62674716</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-165 712 Clementi West Street 2, Singapore 120712</string>
+				<key>Name</key>
+				<string>Clementi West Fire Post</string>
+				<key>Number</key>
+				<string>68747627</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-72 121 Bukit Merah View, Singapore 151121</string>
+				<key>Name</key>
+				<string>Bukit Merah View Fire Post</string>
+				<key>Number</key>
+				<string>63777210</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>75 Telok Blangah Drive, Singapore 100075</string>
+				<key>Name</key>
+				<string>Telok Blangah Fire Post</string>
+				<key>Number</key>
+				<string>63777220</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>1 Anthony Road, Singapore 229944</string>
+				<key>Name</key>
+				<string>Cairnhill Fire Post</string>
+				<key>Number</key>
+				<string>67322104</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>46 Lorong 5 Toa Payoh, Singapore 310046</string>
+				<key>Name</key>
+				<string>Toa Payoh Fire Post</string>
+				<key>Number</key>
+				<string>64782657</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>4 Boon Keng Road, Singapore 330004</string>
+				<key>Name</key>
+				<string>Boon Keng Fire Post</string>
+				<key>Number</key>
+				<string>63911078</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>15 Banyan Road, Singapore 627642</string>
+				<key>Name</key>
+				<string>Banyan Fire Station</string>
+				<key>Number</key>
+				<string>65158610</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>91 Ubi Avenue 4, Singapore 408827</string>
+				<key>Name</key>
+				<string>SCDF Headquarters</string>
+				<key>Number</key>
+				<string>62800000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-01 1 Tampines Industrial Avenue 3, Singapore 528777</string>
+				<key>Name</key>
+				<string>2nd Civil Defence Division</string>
+				<key>Number</key>
+				<string>65878347</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>91 Ubi Avenue 4, Singapore 408827</string>
+				<key>Name</key>
+				<string>Paya Lebar Fire Station</string>
+				<key>Number</key>
+				<string>68481850</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>491 Upper Changi Road, Singapore 486965</string>
+				<key>Name</key>
+				<string>Changi Fire Station</string>
+				<key>Number</key>
+				<string>65433903</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-01 12 Kampung Arang, Singapore 431012</string>
+				<key>Name</key>
+				<string>Mountbatten Fire Post</string>
+				<key>Number</key>
+				<string>63462176</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-00 133 Geylang East Avenue 1, Singapore 380133</string>
+				<key>Name</key>
+				<string>Geylang East Fire Post</string>
+				<key>Number</key>
+				<string>68483215</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>15 Marine Terrace, Singapore 440015</string>
+				<key>Name</key>
+				<string>Marine Parade Fire Post</string>
+				<key>Number</key>
+				<string>64467031</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>45 Chai Chee Street, Singapore 461045</string>
+				<key>Name</key>
+				<string>Chai Chee Fire Post</string>
+				<key>Number</key>
+				<string>64467061</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>842 Sims Avenue, Singapore 400842</string>
+				<key>Name</key>
+				<string>Eunos Fire Post</string>
+				<key>Number</key>
+				<string>68483721</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-02 105 Pasir Ris St 11, Singapore 510105</string>
+				<key>Name</key>
+				<string>Pasir Ris Fire Post</string>
+				<key>Number</key>
+				<string>65822170</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>5 Tanah Merah Besar Road, Singapore 498836</string>
+				<key>Name</key>
+				<string>Loyang Fire Post</string>
+				<key>Number</key>
+				<string>65467378</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-01 1 Tampines Industrial Avenue 3, Singapore 528777</string>
+				<key>Name</key>
+				<string>Tampines Fire Station</string>
+				<key>Number</key>
+				<string>65878345</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>8 Thomson Road, Singapore 298333</string>
+				<key>Name</key>
+				<string>National Civil Defence Cadet Corps</string>
+				<key>Number</key>
+				<string>64782651</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-01 533 Yishun Industrial Park A, Singapore 768774</string>
+				<key>Name</key>
+				<string>3rd Civil Defence Division</string>
+				<key>Number</key>
+				<string>68522888</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-01 533 Yishun Industrial Park A, Singapore 768774</string>
+				<key>Name</key>
+				<string>Yishun Fire Station</string>
+				<key>Number</key>
+				<string>68527995</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>2874 Ang Mo Kio Avenue 9, Singapore 569783</string>
+				<key>Name</key>
+				<string>Ang Mo Kio Fire Station</string>
+				<key>Number</key>
+				<string>64843101</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>50 Buangkok Drive, Singapore 545064</string>
+				<key>Name</key>
+				<string>Sengkang Fire Station</string>
+				<key>Number</key>
+				<string>63127002</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>635 Yishun Street 61, Singapore 760635</string>
+				<key>Name</key>
+				<string>Nee Soon Central Fire Post</string>
+				<key>Number</key>
+				<string>62572271</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>463 Ang Mo Kio Avenue 10, Singapore 560463</string>
+				<key>Name</key>
+				<string>Teck Ghee Fire Post</string>
+				<key>Number</key>
+				<string>65535010</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>01-158 176A Edgefield Plains, Singapore 821176</string>
+				<key>Name</key>
+				<string>Punggol North Fire Post</string>
+				<key>Number</key>
+				<string>63158650</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>203 Serangoon Central, Singapore 550203</string>
+				<key>Name</key>
+				<string>Braddell Heights Fire Post</string>
+				<key>Number</key>
+				<string>63822148</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>101 Jalan Bahar, Singapore 649734</string>
+				<key>Name</key>
+				<string>Civil Defence Academy (Jalan Bahar Camp)</string>
+				<key>Number</key>
+				<string>67945503</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>80 Bukit Batok Road, Singapore 658072</string>
+				<key>Name</key>
+				<string>4th Civil Defence Division</string>
+				<key>Number</key>
+				<string>63146906</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>7 Tuas Road, Singapore 638482</string>
+				<key>Name</key>
+				<string>Tuas Fire Station</string>
+				<key>Number</key>
+				<string>68654180</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>25 Boon Lay Drive, Singapore 649922</string>
+				<key>Name</key>
+				<string>Jurong Fire Station</string>
+				<key>Number</key>
+				<string>62474700</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>80 Bukit Batok Road, Singapore 658072</string>
+				<key>Name</key>
+				<string>Bukit Batok Fire Station</string>
+				<key>Number</key>
+				<string>63146931</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>1 Woodlands Industrial Park D Street 2, Singapore 738799</string>
+				<key>Name</key>
+				<string> Woodlands Fire Station</string>
+				<key>Number</key>
+				<string>68841350</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>712 Jurong West Street 71, Singapore 640712</string>
+				<key>Name</key>
+				<string>Jurong West Fire Post</string>
+				<key>Number</key>
+				<string>67925130</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>318A Jurong East Avenue 1, Singapore 601318</string>
+				<key>Name</key>
+				<string>Jurong East Fire Post</string>
+				<key>Number</key>
+				<string>66655133</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>20 Toh Yi Drive, Singapore 596569</string>
+				<key>Name</key>
+				<string>Bukit Timah Fire Post</string>
+				<key>Number</key>
+				<string>64645291</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-348 281 Choa Chu Kang Avenue 3, Singapore 680281</string>
+				<key>Name</key>
+				<string>Choa Chu Kang Fire Post</string>
+				<key>Number</key>
+				<string>67671042</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>#01-306 126 Pending Road, Singapore 670126</string>
+				<key>Name</key>
+				<string>Bukit Panjang Fire Post</string>
+				<key>Number</key>
+				<string>67671045</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>8 Sungei Kadut Street 3, Singapore 729154</string>
+				<key>Name</key>
+				<string>Sungei Kadut Fire Post</string>
+				<key>Number</key>
+				<string>68841770</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>855 Woodlands Street 83, Singapore 730855</string>
+				<key>Name</key>
+				<string>Woodlands Fire Post</string>
+				<key>Number</key>
+				<string>63651172</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>501 Jalan Ahmad Ibrahim, Singapore 639937</string>
+				<key>Name</key>
+				<string>Tuas Checkpoint Fire Post</string>
+				<key>Number</key>
+				<string>68654723</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>37 Artillery Avenue. Singapore 099957</string>
+				<key>Name</key>
+				<string>
+Sentosa Fire Post</string>
+				<key>Number</key>
+				<string>62748951</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>Home Team Academy</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>501 Old Choa Chu Kang Road, Singapore 698928</string>
+				<key>Name</key>
+				<string>Home Team Academy</string>
+				<key>Number</key>
+				<string>18004680000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>Immigrations &amp; Checkpoints Authority</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>10 Kallang Road, Singapore 208718</string>
+				<key>Name</key>
+				<string>Immigration &amp; Checkpoint Authority</string>
+				<key>Number</key>
+				<string>63916100</string>
+				<key>OperatingHours</key>
+				<string>Weekdays - 0830 to 1700,
+Weekends - 0800 to 1300</string>
+			</dict>
+		</array>
+		<key>Internal Security Department</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>New Phoenix Park, 30 Irrawaddy Road, Singapore 329560 </string>
+				<key>Name</key>
+				<string>Internal Security Department (Duty Office)</string>
+				<key>Number</key>
+				<string>62566657</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>New Phoenix Park, 30 Irrawaddy Road, Singapore 329560 </string>
+				<key>Name</key>
+				<string>Counter-Terrorism Centre</string>
+				<key>Number</key>
+				<string>18002626473</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>New Phoenix Park, 30 Irrawaddy Road, Singapore 329560 </string>
+				<key>Name</key>
+				<string>ISD Heritage Centre</string>
+				<key>Number</key>
+				<string>62512636</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>Ministry of Home Affairs</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>New Phoenix Park, 28 Irrawaddy Road, Singapore 329560 </string>
+				<key>Name</key>
+				<string>Ministry of Home Affairs</string>
+				<key>Number</key>
+				<string>65161743</string>
+				<key>OperatingHours</key>
+				<string>Mondays to Thursdays - 0830 to 1800, Fridays - 0830 to 1730</string>
+			</dict>
+		</array>
+		<key>Police Divisions</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>51 Ang Mo Kio Avenue 9 Singapore 569784</string>
+				<key>Name</key>
+				<string>Ang Mo Kio Police Divisional HQ</string>
+				<key>Number</key>
+				<string>18002180000</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>51 Ang Mo Kio Avenue 9 Singapore 569784</string>
+				<key>Name</key>
+				<string>Ang Mo Kio North Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18004849999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 111 Ang Mo Kio Avenue 4 Singapore 560111</string>
+				<key>Name</key>
+				<string>Kebun Baru Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004589999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>81 Ang Mo Kio Ave 3 Singapore 569929</string>
+				<key>Name</key>
+				<string>Ang Mo Kio South Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18004519999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 321 Ang Mo Kio Street 31 Singapore 560321</string>
+				<key>Name</key>
+				<string>Teck Ghee Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004599999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>60 Hougang Ave 9 Singapore 538775</string>
+				<key>Name</key>
+				<string>Hougang Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18004899999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 357 Hougang Avenue 7 #01-805 Singapore 530357</string>
+				<key>Name</key>
+				<string>Hougang Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002869999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 114 Hougang Avenue 1 #01-1270 Singapore 530114</string>
+				<key>Name</key>
+				<string>Paya Lebar Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002899999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>4 Sembawang Crescent Singapore 757633</string>
+				<key>Name</key>
+				<string>Sembawang Neighbourhood Police Centre	</string>
+				<key>Number</key>
+				<string>18005549999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>50 Serangoon Ave 2 #01-02 Singapore 556129</string>
+				<key>Name</key>
+				<string>Serangoon Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18004880999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>51 Serangoon Garden Way Singapore 555947</string>
+				<key>Name</key>
+				<string>Serangoon Gardens Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002879999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 108 Serangoon North Avenue 1 #01-709 Singapore 550108</string>
+				<key>Name</key>
+				<string>Serangoon North Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002849999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>2 Sengkang Square #01-02 Singapore 545025</string>
+				<key>Name</key>
+				<string>Sengkang Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18003438999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>31 Yishun Central Singapore 768827</string>
+				<key>Name</key>
+				<string>Yishun North Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18008529999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 141 Yishun Ring Road Singapore 760141</string>
+				<key>Name</key>
+				<string>Chong Pang Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007529999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>32 Yishun St 81 Singapore 768456</string>
+				<key>Name</key>
+				<string>Yishun South Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18008522999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 798 Yishun Ring Road #01-3352 Singapore 760798</string>
+				<key>Name</key>
+				<string>Nee Soon South Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007539999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>30 Bedok North Road Singapore 469676</string>
+				<key>Name</key>
+				<string>Bedok Police Divisional HQ</string>
+				<key>Number</key>
+				<string>18002440000</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>30 Bedok North Road Singapore 469676</string>
+				<key>Name</key>
+				<string>Bedok North Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18002449999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 629 Bedok Reservoir Road #01-1620 Singapore 470629</string>
+				<key>Name</key>
+				<string>Eunos Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004439999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 526 Bedok North Street 3 #01-448 Singapore 460526</string>
+				<key>Name</key>
+				<string>Kaki Bukit Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004429999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>20 Chai Chee Drive Singapore 469045</string>
+				<key>Name</key>
+				<string>Bedok South Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18002448999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 15 Bedok South Road #01-117 Singapore 460015</string>
+				<key>Name</key>
+				<string>Bedok Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002419999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 35 Chai Chee Avenue #01-256/258 Singapore 461035</string>
+				<key>Name</key>
+				<string>Chai Chee Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004459999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 112 Lengkong Tiga #01-215 Singapore 410112</string>
+				<key>Name</key>
+				<string>Kampong Kembangan Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007489999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>125 Upper East Coast Road Singapore 455246</string>
+				<key>Name</key>
+				<string>Siglap Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004489999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 51 New Upper Changi Road #01-1514 Singapore 461051</string>
+				<key>Name</key>
+				<string>Tanah Merah Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004499999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>9 Simei Street 2 Singapore 529914</string>
+				<key>Name</key>
+				<string>Changi Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18005872999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 109 Tampines Street 11 #01-261 Singapore 521109</string>
+				<key>Name</key>
+				<string>Changkat Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007819999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>6 Tampines Ave 4 Singapore 529682</string>
+				<key>Name</key>
+				<string>Tampines Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18005871999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 461 Tampines Street 44 #01-56 Singapore 520461</string>
+				<key>Name</key>
+				<string>Tampines North Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007818999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 263 Tampines Street 21 #01-138 Singapore 520263</string>
+				<key>Name</key>
+				<string>Tampines East Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007839999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>1 Pasir Ris Drive 4 #01-01 Singapore 519457</string>
+				<key>Name</key>
+				<string>Pasir Ris Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18005852999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>300 Marine Parade Road Singapore 449296</string>
+				<key>Name</key>
+				<string>Marine Parade Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18004428999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 74 Marine Drive #01-35 Singapore 440074</string>
+				<key>Name</key>
+				<string>Marine Parade Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004409999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>132 Paya Lebar Road Singapore 409014</string>
+				<key>Name</key>
+				<string>Geylang Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18008486999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 111 Aljunied Crescent #01-102 Singapore 380111</string>
+				<key>Name</key>
+				<string>Geylang Serai Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007459999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 59 Sim&apos;s Drive #01-1205 Singapore 380059</string>
+				<key>Name</key>
+				<string>Geylang West Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007429999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>267 Onan Road Singapore 424773</string>
+				<key>Name</key>
+				<string>Joo Chiat Neighbourhood Police Post	</string>
+				<key>Number</key>
+				<string>18003459999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 9 Eunos Crescent #01-2687 Singapore 400009</string>
+				<key>Name</key>
+				<string>Kampong Ubi Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007479999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 54 Pipit Road #01-82/84 Singapore 370054</string>
+				<key>Name</key>
+				<string>MacPherson Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007479999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 60 Dakota Crescent #01-213/ 215 Singapore 390060</string>
+				<key>Name</key>
+				<string>Mountbatten Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18003449999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>35 Airport Boulevard Singapore 819645</string>
+				<key>Name</key>
+				<string>Airport Police</string>
+				<key>Number</key>
+				<string>65460000</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>21 Kampong Java Road Singapore 228892</string>
+				<key>Name</key>
+				<string>Tanglin Police Divisional HQ</string>
+				<key>Number</key>
+				<string>18003910000</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>132 Paya Lebar Road Singapore 409014</string>
+				<key>Name</key>
+				<string>Kampong Java Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18008486999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 101 Jalan Rajah #01-01 Singapore 321101</string>
+				<key>Name</key>
+				<string>Moulmein Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002508999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 29 Jalan Bahagia #01-368 Singapore 320029</string>
+				<key>Name</key>
+				<string>Whampoa Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002507999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 9 Gloucester Road #01-03 Singapore 210009</string>
+				<key>Name</key>
+				<string>Cairnhill Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002968999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>247 Whitley Road Singapore 297830</string>
+				<key>Name</key>
+				<string>Whitley Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002559999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>20 Bishan Street 23 Singapore 579757</string>
+				<key>Name</key>
+				<string>Bishan Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18005529999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 196 Bishan Street 13 #01-565 Singapore 570196</string>
+				<key>Name</key>
+				<string>Bishan Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002589999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 25 Sin Ming Road #01-180 Singapore 570025</string>
+				<key>Name</key>
+				<string>Thomson Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004529999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>93 Toa Payoh Central Toa Payoh Community Building #01-02 Singapore 319194</string>
+				<key>Name</key>
+				<string>Toa Payoh Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18002519999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 13 Joo Seng Road #01-69 Singapore 360013</string>
+				<key>Name</key>
+				<string>Aljunied Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002809999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 207 Toa Payoh North #01-1231 Singapore 310207</string>
+				<key>Name</key>
+				<string>Boon Teck Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002549999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 231 Lorong 8 Toa Payoh #01-186 Singapore 310231</string>
+				<key>Name</key>
+				<string>Kim Keat Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002529999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 142 Potong Pasir Avenue 3 #01-240 Singapore 350142</string>
+				<key>Name</key>
+				<string>Potong Pasir Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002829999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>1 Duke Road Singapore 268914</string>
+				<key>Name</key>
+				<string>Bukit Timah Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18004629999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 4 Delta Avenue #01-02 Singapore 161004</string>
+				<key>Name</key>
+				<string>River Valley Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002789999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>5 Beo Crescent Singapore 169981</string>
+				<key>Name</key>
+				<string>Kim Seng Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002718999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>51 Killiney Road Singapore 239572</string>
+				<key>Name</key>
+				<string>Orchard Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18007359999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>391 New Bridge Road #03-112 Police Cantonment Complex Block A Singapore 088762</string>
+				<key>Name</key>
+				<string>Central Police Divisional HQ</string>
+				<key>Number</key>
+				<string>18002240000</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>391 New Bridge Road Police Cantonment Complex Block A Singapore 088762</string>
+				<key>Name</key>
+				<string>Bukit Merah East Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18002369999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>32 North Canal Road Singapore 059282</string>
+				<key>Name</key>
+				<string>Kreta Ayer Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18005359999</string>
+				<key>OperatingHours</key>
+				<string>7am to 10pm</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 15 Telok Blangah Crescent #01-250 Singapore 090015</string>
+				<key>Name</key>
+				<string>Radin Mas Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002719999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 144 Jalan Bukit Merah #01-1114 Singapore 160144</string>
+				<key>Name</key>
+				<string>Tanjong Pagar Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002738999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 128 Kim Tian Road #01-123/ 125 Singapore 160128</string>
+				<key>Name</key>
+				<string>Tiong Bahru Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002739999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>11 Kampong Kapor Road Singapore 208678</string>
+				<key>Name</key>
+				<string>Rochor Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18002949999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 105 Towner Road #01-400 Singapore 321105</string>
+				<key>Name</key>
+				<string>Kallang Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002996999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>17A Beach Road Singapore 199596</string>
+				<key>Name</key>
+				<string>Kampong Glam Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002989999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 72 Geylang Bahru #01-3038 Singapore 330072</string>
+				<key>Name</key>
+				<string>Kolam Ayer Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002969999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>1 Prince Edward Link Singapore 078872</string>
+				<key>Name</key>
+				<string>Marina Bay Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18002229999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>20 Clementi Avenue 5 Singapore 129858</string>
+				<key>Name</key>
+				<string>Clementi Police Divisional HQ</string>
+				<key>Number</key>
+				<string>18007740000</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>500 Bukit Merah View #01-01 Singapore 159682</string>
+				<key>Name</key>
+				<string>Bukit Merah West Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18003779999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 25 Sin Ming Road #01-180 Singapore 570025</string>
+				<key>Name</key>
+				<string>Thomson Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004529999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 51 Telok Blangah Drive #01-116/ 118 Singapore 100055</string>
+				<key>Name</key>
+				<string>Telok Blangah Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002729999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>20 Clementi Avenue 5 Singapore 129858</string>
+				<key>Name</key>
+				<string>Clementi Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18008729999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 1 Toh Yi Drive #01-139 Singapore 590001</string>
+				<key>Name</key>
+				<string>Bukit Timah Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004689999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 427 Clementi Avenue 3 #01-456 Singapore 120427</string>
+				<key>Name</key>
+				<string>Clementi Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007759999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 728 Clementi West Street 2 #01-418 Singapore 120728</string>
+				<key>Name</key>
+				<string>West Coast Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007789999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>3 Queensway #01-03 Singapore 149073</string>
+				<key>Name</key>
+				<string>Queenstown Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18007759999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 46-2 Commonwealth Drive #01-382A Singapore 140462</string>
+				<key>Name</key>
+				<string>Alexandra Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004739999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 13 Holland Drive #01-38/40 Singapore 271013</string>
+				<key>Name</key>
+				<string>Buona Vista Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007779999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 111 Commonwealth Crescent (Annex) #01-288A Singapore 140111</string>
+				<key>Name</key>
+				<string>Commonwealth Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004749999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 3 Dover Road #01-368 Singapore 130003</string>
+				<key>Name</key>
+				<string>Dover Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007788999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>109A Pasir Panjang Road Singapore 118815</string>
+				<key>Name</key>
+				<string>Pasir Panjang Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002759999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 9 Ghim Moh Road #01-110 Singapore 270009</string>
+				<key>Name</key>
+				<string>Ulu Pandan Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18004669999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>No. 92 Boon Lay Way Singapore 609962</string>
+				<key>Name</key>
+				<string>Jurong East Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18008999999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 43 Teban Gardens Road #01-388 Singapore 600043</string>
+				<key>Name</key>
+				<string>Ayer Rajah Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18005659999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>2 Jurong West Avenue 5 Singapore 649482</string>
+				<key>Name</key>
+				<string>Jurong Police Divisional HQ</string>
+				<key>Number</key>
+				<string>18007910000</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>21 Bukit Batok East Ave 4 Singapore 659840</string>
+				<key>Name</key>
+				<string>Bukit Batok Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18006659999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 103 Bukit Batok Central #01-00 Singapore 650103</string>
+				<key>Name</key>
+				<string>Bukit Batok Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18005639999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 370 Bukit Batok Street 31 #01-201 Singapore 650370</string>
+				<key>Name</key>
+				<string>Hong Kah North Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18005679999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>1 Segar Road #01-05 Singapore 677738</string>
+				<key>Name</key>
+				<string>Bukit Panjang Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18008929999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 124 Pending Road #01-00 Singapore 670124</string>
+				<key>Name</key>
+				<string>Bukit Panjang South Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007609999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>20 Choa Chu Kang Street 52 #01-02 Singapore 689286</string>
+				<key>Name</key>
+				<string>Choa Chu Kang Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18007659999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 116 Teck Whye Lane #01-740 Singapore 680116</string>
+				<key>Name</key>
+				<string>Choa Chu Kang Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18007629999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>700 Corporation Road Singapore 649818</string>
+				<key>Name</key>
+				<string>Jurong West Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18002689999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 210 Boon Lay Place #01-00 Singapore 640210</string>
+				<key>Name</key>
+				<string>Boon Lay Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002619999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 510 Jurong West Street 52 #01-90 Singapore 640510</string>
+				<key>Name</key>
+				<string>Hong Kah South Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18005648999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 158 Yung Loh Road #01-58 Singapore 610158</string>
+				<key>Name</key>
+				<string>Jurong Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18002659999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>2 Jurong West Avenue 5 Singapore 649482</string>
+				<key>Name</key>
+				<string>Nanyang Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18007929999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>60 Jurong West Street 91 Singapore 649040</string>
+				<key>Name</key>
+				<string>Nanyang Extended Police Post</string>
+				<key>Number</key>
+				<string>18007919999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>3 Woodlands Drive 63 Singapore 737890</string>
+				<key>Name</key>
+				<string>Woodlands Neighbourhood Police Centre</string>
+				<key>Number</key>
+				<string>18007679999</string>
+				<key>OperatingHours</key>
+				<string>24 Hours</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 27 Marsiling Drive #01-237 Singapore 730027</string>
+				<key>Name</key>
+				<string>Bukit Panjang North Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18003689999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 16 Marsiling Lane #01-183 Singapore 730016</string>
+				<key>Name</key>
+				<string>Marsiling Neighbourhood Police Post</string>
+				<key>Number</key>
+				<string>18003679999</string>
+				<key>OperatingHours</key>
+				<string>12pm - 10pm (Daily)</string>
+			</dict>
+		</array>
+		<key>Singapore Civil Defence Force</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>91 Ubi Avenue 4, Singapore 408827</string>
+				<key>Name</key>
+				<string>Singapore Civil Defence Force</string>
+				<key>Number</key>
+				<string>18002865555</string>
+				<key>OperatingHours</key>
+				<string>Mondays to Thursdays - 0830 to 1800, Fridays - 0830 to 1730</string>
+			</dict>
+		</array>
+		<key>Singapore Corporation of Rehabilitative Enterprises</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>407 Upper Changi Road North 20km (within Prison HQ Complex), Singapore 507658</string>
+				<key>Name</key>
+				<string>Singapore Corporation of Rehabilitative Enterprise HQ</string>
+				<key>Number</key>
+				<string>62142801</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>Singapore Police Force</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>New Phoenix Park, 28 Irrawaddy Road, Singapore 329560 </string>
+				<key>Name</key>
+				<string>Singapore Police Force (Headquarters)</string>
+				<key>Number</key>
+				<string>63530000</string>
+				<key>OperatingHours</key>
+				<string>Mondays to Thursdays - 0830 to 1800, Fridays - 0830 to 1730</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>391 New Bridge Road #06-701 Police Cantonment Complex Block D Singapore 088762</string>
+				<key>Name</key>
+				<string>Commercial Affairs Department</string>
+				<key>Number</key>
+				<string>63250000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>391 New Bridge Road Police Cantonment Complex Block C Singapore 088762</string>
+				<key>Name</key>
+				<string>Criminal Investigation Department</string>
+				<key>Number</key>
+				<string>64350000 </string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>391 New Bridge Road #02-701 Police Cantonment Complex Block D Singapore 088762</string>
+				<key>Name</key>
+				<string>Licensing Division</string>
+				<key>Number</key>
+				<string>68350000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>391 New Bridge Road Level 8 Police Cantonment Complex Block C Singapore 088762</string>
+				<key>Name</key>
+				<string>Volunteer Special Constabulary Department</string>
+				<key>Number</key>
+				<string>62210000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>391 New Bridge Road Level 8 Police Cantonment Complex Block A Singapore 088762</string>
+				<key>Name</key>
+				<string>Warrant Enforcement Unit</string>
+				<key>Number</key>
+				<string>65575017</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>391 New Bridge Road #02-106 Police Cantonment Complex Block A Singapore 088762</string>
+				<key>Name</key>
+				<string>Welfare Division</string>
+				<key>Number</key>
+				<string>67331000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>11 Brani Way Singapore 098658</string>
+				<key>Name</key>
+				<string>Police Coast Guard</string>
+				<key>Number</key>
+				<string>18003750000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>1 Mount Pleasant Rd Block 2A Singapore 298333</string>
+				<key>Name</key>
+				<string>Police National Service Department</string>
+				<key>Number</key>
+				<string>64783300</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>132 Paya Lebar Road Singapore 409014 </string>
+				<key>Name</key>
+				<string>Public Transport Security Command (TransCom)</string>
+				<key>Number</key>
+				<string>18008420000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>2 Lorong 4 Toa Payoh Singapore 319513</string>
+				<key>Name</key>
+				<string>Security Command</string>
+				<key>Number</key>
+				<string>62510000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Queensway Base Singapore 149051</string>
+				<key>Name</key>
+				<string>Special Operations Command</string>
+				<key>Number</key>
+				<string>64790000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>10 Ubi Avenue 3 Singapore 408865</string>
+				<key>Name</key>
+				<string>Traffic Police Department</string>
+				<key>Number</key>
+				<string>65470000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Home Team Academy 501 Old Choa Chu Kang Road Singapore 698928</string>
+				<key>Name</key>
+				<string>Training Command</string>
+				<key>Number</key>
+				<string>64680000</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>Singapore Prison Service</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<string>407 Upper Changi Road North, Singapore 507658</string>
+				<key>Name</key>
+				<string>Singapore Prison Service (Headquarters)</string>
+				<key>Number</key>
+				<string>18007747667</string>
+				<key>OperatingHours</key>
+				<string>Mondays to Thursdays - 0830 to 1800, Fridays - 0830 to 1730</string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>990 Upper Changi Road North, Singapore 506968</string>
+				<key>Name</key>
+				<string>Prison Link Centre (Changi)</string>
+				<key>Number</key>
+				<string></string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 134 Jurong Gateway Road #02-307D, Singapore 600134</string>
+				<key>Name</key>
+				<string>Prison Link Centre (Jurong)</string>
+				<key>Number</key>
+				<string></string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>Blk 70 Geylang Bahru #02-2719 Singapore 330070</string>
+				<key>Name</key>
+				<string>Prison Link Centre (Geylang Bahru)</string>
+				<key>Number</key>
+				<string></string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>21 Admiralty Road West, Singapore 757698</string>
+				<key>Name</key>
+				<string>Admiralty West Prison</string>
+				<key>Number</key>
+				<string>68841861</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>982 Upper Changi Road North, Singapore 507709</string>
+				<key>Name</key>
+				<string>Cluster A</string>
+				<key>Number</key>
+				<string>65466832</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>984 Upper Changi Road North, Singapore 506969</string>
+				<key>Name</key>
+				<string>Cluster B</string>
+				<key>Number</key>
+				<string>65466739</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>10 Tanah Merah Besar Road, Singapore 498834</string>
+				<key>Name</key>
+				<string>Changi Women&apos;s Prison</string>
+				<key>Number</key>
+				<string>65469427</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>10 Kaki Bukit Ave 5, Singapore 417902</string>
+				<key>Name</key>
+				<string>Kaki Bukit Centre (Prison School)</string>
+				<key>Number</key>
+				<string>68428192</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<string>1 Selarang Park Road, Singapore 508167</string>
+				<key>Name</key>
+				<string>Selarang Park Community Supervision Centre</string>
+				<key>Number</key>
+				<string>18005431825</string>
+				<key>OperatingHours</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

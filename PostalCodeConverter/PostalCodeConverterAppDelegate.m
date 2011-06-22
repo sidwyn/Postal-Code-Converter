@@ -9,11 +9,14 @@
 #import "PostalCodeConverterAppDelegate.h"
 
 #import "PostalCodeConverterViewController.h"
+#import "VTPG_Common.h"
+#import "SBJson.h"
+#import "ASIHTTPRequest.h"
 
 @implementation PostalCodeConverterAppDelegate
 
 
-@synthesize window=_window;
+@synthesize window=_window,data;
 
 @synthesize viewController=_viewController;
 
@@ -23,7 +26,89 @@
      
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
+    
+    //Initialise data
+	NSString *Path = [[NSBundle mainBundle] bundlePath];
+	NSString *DataPath = [Path stringByAppendingPathComponent:@"Data.plist"];
+	NSMutableDictionary *tempDict = [[NSMutableDictionary alloc] initWithContentsOfFile:DataPath];
+	self.data = tempDict;
+	[tempDict release];
+    
+    //Main run
+    [self runAll];
+    
+    LOG_EXPR(@"Complete.");
+    
     return YES;
+}
+
+- (void)runAll{
+    
+    NSMutableDictionary *mhaDict = [self.data objectForKey:@"MHA"];
+    
+    for (NSString *eachDepartmentKey in mhaDict){
+        NSArray *eachDepartment = [mhaDict objectForKey:eachDepartmentKey];
+        for (NSMutableDictionary *eachSpecificDepartment in eachDepartment){
+            NSString *theAddress = [eachSpecificDepartment objectForKey:@"Address"];
+            NSRange range = [theAddress rangeOfString:@"Singapore"];
+            NSString *thePostalCode = [theAddress substringWithRange:NSMakeRange(range.location+10,6)];
+            LOG_EXPR(thePostalCode);
+            
+            NSString *toMakeUrl = [NSString stringWithFormat:@"http://maps.google.com/maps/geo?q=sg-%@",thePostalCode];
+            id response = [self objectWithUrl:[NSURL URLWithString:toMakeUrl]];
+            NSDictionary *feed = (NSDictionary *)response;
+            NSString *extractLat = [[[[[feed objectForKey:@"Placemark"] objectAtIndex:0]objectForKey:@"Point"]objectForKey:@"coordinates"]objectAtIndex:1];
+            NSString *extractLon = [[[[[feed objectForKey:@"Placemark"] objectAtIndex:0]objectForKey:@"Point"]objectForKey:@"coordinates"]objectAtIndex:0];
+
+            [eachSpecificDepartment setObject:extractLat forKey:@"Latitude"];
+            [eachSpecificDepartment setObject:extractLon forKey:@"Longitude"];
+        }
+    }
+    
+    [self.data setObject:mhaDict forKey:@"MHA"];
+    
+    //SAVE
+    NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+    NSString *documentsDirectory = [paths objectAtIndex:0];
+    NSString *path = [documentsDirectory stringByAppendingPathComponent:@"newData.plist"];
+    [self.data writeToFile:path atomically:YES];
+    
+}
+
+- (NSString *)grabURL:(NSURL *)url
+{
+    ASIHTTPRequest *request = [ASIHTTPRequest requestWithURL:url];
+    [request startSynchronous];
+    NSString *response = [request responseString];
+
+    return response;
+}
+
+- (NSString *)stringWithUrl:(NSURL *)url
+{
+	NSURLRequest *urlRequest = [NSURLRequest requestWithURL:url
+                                                cachePolicy:NSURLRequestReturnCacheDataElseLoad
+                                            timeoutInterval:30];
+    // Fetch the JSON response
+	NSData *urlData;
+	NSURLResponse *response;
+	NSError *error;
+    
+	// Make synchronous request
+	urlData = [NSURLConnection sendSynchronousRequest:urlRequest
+                                    returningResponse:&response
+                                                error:&error];
+    
+ 	// Construct a String around the Data from the response
+	return [[NSString alloc] initWithData:urlData encoding:NSUTF8StringEncoding];
+}
+- (id) objectWithUrl:(NSURL *)url
+{
+	SBJsonParser *jsonParser = [SBJsonParser new];
+	NSString *jsonString = [self grabURL:url];
+    
+	// Parse the JSON into an Object
+	return [jsonParser objectWithString:jsonString error:NULL];
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
